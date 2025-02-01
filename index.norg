@@ -1,25 +1,15 @@
 @document.meta
-title: index
+title: Home
 description: Fork my brain
 authors: lazydino
 categories: moc 
 created: 2025-01-24T21:57:24+0900
-updated: 2025-01-24T22:26:22+0900
+updated: 2025-01-24T23:09:10+0900
 version: 1.1.1
 @end
 
 * Fork My Brain
 ** Moc
-   - {:$/index:}[Index] - Fork my brain
-** "journal"
-  - {:$/journal/daily/2025-01-10:}[2025-01-10]
-
-** Uncategorised
-  - {:$/inbox/dd:}[Dd]
-  - {:$/inbox/ddw:}[Ddw]
-  - {:$/inbox/index:}[Index]
-  - {:$/inbox/playground:}[Playground]
-  - {:$/project/index:}[Index]
-  - {:$/journal/daily/2025-01-13:}[2025-01-13]
-  - {:$/journal/daily/2025-01-24:}[2025-01-24]
-  - {:$/journal/daily/2025-01-25:}[2025-01-25]
+   - {:$/project/index:}[Projects]
+** Project
+  - {:$/lazytrading-chrome-extension:}[Lazytrading-chrome-extension]
